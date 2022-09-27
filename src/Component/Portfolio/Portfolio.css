@@ -1,0 +1,83 @@
+.project{
+    padding: 2 4rem 6 8rem;
+    display: flex;
+    height: 15rem;
+    margin-left: 0rem;
+    margin-bottom: 8rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    /* scroll view */
+    padding-top: 3rem;
+}
+.project {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    /* gap: 20px; */
+  }
+  
+  .project > :nth-child(1) {
+    color: var(--black);
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  .project > :nth-child(2) {
+    color: var(--orange);
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .project > :nth-child(3) {
+    color: var(--gray);
+    font-size: 18px;
+    margin-top: 1rem;
+  } 
+  .project > :nth-child(6) {
+    color: var(--orange);
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .project > :nth-child(7) {
+    color: var(--gray);
+    font-size: 18px;
+    margin-top: 1rem;
+  } 
+  .project > :nth-child(10) {
+    color: var(--orange);
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .project > :nth-child(11) {
+    color: var(--gray);
+    font-size: 18px;
+    margin-top: 1rem;
+  } 
+  .project > :nth-child(14) {
+    color: var(--orange);
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .project > :nth-child(15) {
+    color: var(--gray);
+    font-size: 18px;
+    margin-top: 1rem;
+  } 
+  .project > :nth-child(18) {
+    color: var(--orange);
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .project > :nth-child(19) {
+    color: var(--gray);
+    font-size: 18px;
+    margin-top: 1rem;
+  } 
+  .project > :nth-child(22) {
+    color: var(--orange);
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  .project > :nth-child(23) {
+    color: var(--gray);
+    font-size: 18px;
+    margin-top: 1rem;
+  } 
